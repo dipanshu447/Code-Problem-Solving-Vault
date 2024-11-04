@@ -12,7 +12,6 @@ public:
             rev += num[i]; 
         }
         int i = num.size();
-        cout << num << " == "<< rev << endl;
         if (num.compare(rev) == 0)
         {
             return true;
@@ -20,4 +19,3 @@ public:
         return false;
     }
 };
-
