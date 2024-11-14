@@ -9,7 +9,7 @@ public:
         }
         int first = 1;
         int second = 2;
-        for(int i = 3; i <=   n; i++){
+        for(int i = 3; i <= n; i++){
             int current = first + second;
             first = second;
             second = current;
