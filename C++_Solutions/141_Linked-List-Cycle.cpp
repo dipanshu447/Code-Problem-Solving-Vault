@@ -6,7 +6,7 @@ struct ListNode {
      int val;
      ListNode *next;
      ListNode(int x) : val(x), next(NULL) {}
-};
+}; // comment this ListNode definition before running code in leetcode
 
 class Solution {
 public:
