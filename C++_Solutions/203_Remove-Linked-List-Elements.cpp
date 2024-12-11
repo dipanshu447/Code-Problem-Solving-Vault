@@ -19,7 +19,6 @@ public:
         ListNode* temp = new ListNode(0);
         temp->next = head;
         ListNode *current = temp;
-        // Traverse the list and remove nodes with the target value
         while(current->next != nullptr){
              if(current->next->val == val){
                 ListNode* del = current->next;
