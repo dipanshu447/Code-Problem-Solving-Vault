@@ -22,6 +22,7 @@ You can check out my profiles across various coding platforms:
 
 - Solve more medium-level problems on LeetCode to enhance problem-solving skills.
 - Begin the **GFG 160 Challenge** to further strengthen my algorithmic knowledge.
+- Participate in Leetcode Contests.
 
 ## **Feedback and Suggestions**
 
