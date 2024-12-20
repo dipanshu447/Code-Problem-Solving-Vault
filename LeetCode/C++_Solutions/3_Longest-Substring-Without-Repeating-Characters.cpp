@@ -29,6 +29,7 @@ public:
 };
 
 // Even more efficient solution using vector index as ASCII values. 
+// Check out my leetcode post for better explanation : https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/6166733/efficient-solution-for-longest-substring-ndln/
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
