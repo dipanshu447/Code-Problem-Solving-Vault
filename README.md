@@ -15,8 +15,10 @@ You can check out my profiles across various coding platforms:
 - [HackerEarth Profile](https://www.hackerrank.com/profile/dipanshusahu447)
 
 ## **Badges**
-
+<div style="display:flex;">
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width=200>
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width=200>
+</div>
 
 ## Future Goals
 
